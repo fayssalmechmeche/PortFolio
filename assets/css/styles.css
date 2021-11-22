@@ -517,35 +517,25 @@ img {
 }
 
 .skills__js {
-  width: 40%;
+  width: 10%;
 }
 
-.skills__react {
-  width: 10%;
+.skills__postgresql {
+  width: 50%;
+}
+.skills__mysql {
+  width: 50%;
 }
 
 .skills__php {
-  width: 20%;
+  width: 50%;
 }
-
-.skills__node {
-  width: 10%;
-}
-
-.skills__firebase {
+.skills__uml {
   width: 90%;
 }
 
 .skills__python {
-  width: 15%;
-}
-
-.skills__figma {
-  width: 90%;
-}
-
-.skills__sketch {
-  width: 85%;
+  width: 45%;
 }
 
 .skills__photoshop {
