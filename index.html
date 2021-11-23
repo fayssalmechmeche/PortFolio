@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="fr">
   <head>
+    <script src="main.js"></script>
+
+    <script type="text/javascript"
+        src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js"> </script>
+<script type="text/javascript">
+   (function(){
+      emailjs.init("user_2Pj5Q8OTGbzBog3xgcKCQ");
+   })();
+</script>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
@@ -115,7 +124,7 @@
                     x="12"
                     y="18"
                     
-                    xlink:href="assets/img/saita.png" 
+                    xlink:href="assets/img/faysssal.png" 
                   /> 
                 </g>
               </svg>
@@ -566,33 +575,34 @@
             <div class="contact__inputs grid">
               <div class="contact__content">
                 <label for="" class="contact__label">Nom</label>
-                <input type="text" class="contact__input" />
+                <input type="text" class="contact__input" id="nom" />
               </div>
               <div class="contact__content">
                 <label for="" class="contact__label">Prenom</label>
-                <input type="text" class="contact__input" />
+                <input type="text" class="contact__input" id="prenom"/>
               </div>
               <div class="contact__content">
                 <label for="" class="contact__label">Email</label>
-                <input type="email" class="contact__input" />
+                <input type="email" class="contact__input" id="email"/>
               </div>
             </div>
             <div class="contact__content">
               <label for="" class="contact__label">Sujet</label>
-              <input type="text" class="contact__input" />
+              <input type="text" class="contact__input" id="sujet"/>
             </div>
             <div class="contact__content">
               <label for="" class="contact__label">Message</label>
+              
               <textarea
                 name=""
-                id=""
+                id="message"
                 cols="0"
                 rows="7"
                 class="contact__input"
               ></textarea>
             </div>
             <div>
-              <a href="mailto:fayssalmechmeche.pro@gmail.com" class="button button--flex">
+              <a onclick='sendMail()' class="button button--flex">
                 Envoyez le message
                 <i class="uil uil-message button__icon"></i>
               </a>
@@ -647,5 +657,11 @@
 
     <!--==================== MAIN JS ====================-->
     <script src="assets/js/main.js"></script>
+
+    <!--==================== SCRIPT ====================-->
+
+    
+
+
   </body>
 </html>

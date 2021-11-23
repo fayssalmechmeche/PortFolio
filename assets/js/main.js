@@ -179,3 +179,21 @@ themeButton.addEventListener('click', () => {
     localStorage.setItem('selected-theme', getCurrentTheme())
     localStorage.setItem('selected-icon', getCurrentIcon())
 })
+
+// script mail
+
+function sendMail(params) {
+  var tempParams ={
+    nom:document.getElementById("nom").value,
+    prenom:document.getElementById("prenom").value,
+    email:document.getElementById("email").value,
+    sujet:document.getElementById("sujet").value,
+    message:document.getElementById("message").value,
+
+  }
+  emailjs.send('service_x22cj82','template_h4ifh14',tempParams)
+  .then(function(res){
+      console.log("success",res.status);
+  })
+
+}
