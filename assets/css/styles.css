@@ -276,6 +276,15 @@ img {
   gap: 1rem;
 }
 
+.home__projet {
+  position: relative;
+  background-color: var(--container-color);
+  padding: 3.5rem 0.5rem 1.25rem 1.5rem;
+  border-radius: 0.25rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+  transition: 0.3s;
+}
+
 .home__content {
   grid-template-columns: 0.5fr 3fr;
   padding-top: 3.5rem;
