@@ -195,5 +195,13 @@ function sendMail(params) {
   .then(function(res){
       console.log("success",res.status);
   })
+  
 
 }
+function sendAlert() {
+      swal({
+  title: "Good job!",
+  text: "You clicked the button!",
+  icon: "success",
+  button: "Aww yiss!",
+});}
