@@ -200,8 +200,8 @@ function sendMail(params) {
 }
 function sendAlert() {
       swal({
-  title: "Good job!",
-  text: "You clicked the button!",
+  title: "Merci !",
+  text: "ton message a été envoyé!",
   icon: "success",
-  button: "Aww yiss!",
+  button: "Fermer",
 });}
