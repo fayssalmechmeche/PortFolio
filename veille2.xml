@@ -2,9 +2,9 @@
 <rss version="2.0">
 
 <channel>
- <title>Article</title>
-    <link>https://www.google.com/alerts/feeds/11166045241718756027/3474632388049022543</link>
-    <description>Article qui marche</description>
-<item>
+ <title>Titre</title>
+    <link>http://www.youtube.com</link>
+    <description>Description</description>
+ 
   </channel>
 </rss>
