@@ -1325,3 +1325,11 @@ img {
     grid-template-columns: repeat(2, 1fr);
   }
 }
+
+  .certif__buttons {
+     display: flex;
+     justify-content: center;
+     text-align:center;
+}
+   
+    
