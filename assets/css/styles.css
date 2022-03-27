@@ -159,6 +159,10 @@ img {
   text-align: center;
 }
 
+
+
+
+
 /*==================== LAYOUT ====================*/
 .container {
   max-width: 768px;
@@ -355,6 +359,9 @@ img {
 .home__scroll-arrow {
   font-size: 1.25rem;
 }
+
+
+
 
 /*==================== BUTTONS ====================*/
 .button {
