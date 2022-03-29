@@ -296,7 +296,7 @@ img {
   row-gap: 1rem;
 }
 .home__social-icon {
-  font-size: 1.25rem;
+  font-size: 5rem;
   color: var(--first-color);
 }
 
@@ -1309,7 +1309,7 @@ img {
   }
 
   .swiper-portfolio-icon {
-    font-size: 3.5rem;
+    font-size: 3.5rem
   }
 
   .swiper-button-prev {
