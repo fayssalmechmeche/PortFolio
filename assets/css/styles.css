@@ -1332,6 +1332,7 @@ img {
   margin-right: auto;
 }
 
+/* CSS BONUS */
 @import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap");
 
 *,
@@ -1340,24 +1341,6 @@ img {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
-}
-
-body {
-  font-family: "Quicksand", sans-serif;
-  display: grid;
-  place-items: center;
-  height: 100vh;
-  background: #7f7fd5;
-  background: linear-gradient(to right, #91eae4, #86a8e7, #7f7fd5);
-}
-
-.container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  max-width: 1200px;
-  margin-block: 2rem;
-  gap: 2rem;
 }
 
 img {
