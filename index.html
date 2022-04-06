@@ -1,0 +1,1003 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!--==================== UNICONS
+             ====================-->
+    <link
+      rel="stylesheet"
+      href="https://unicons.iconscout.com/release/v4.0.0/css/line.css"
+    />
+
+    <!--==================== SWIPER CSS ====================-->
+    <link rel="stylesheet" href="assets/css/swiper-bundle.min.css" />
+
+    <!--==================== CSS ====================-->
+    <link rel="stylesheet" href="assets/css/styles.css" />
+
+    <title>Portfolio</title>
+  </head>
+  <body>
+    <!--==================== HEADER ====================-->
+    <header class="header" id="header">
+      <nav class="nav container">
+        <a href="#" class="nav__logo">Mechmeche Fayssal</a>
+        <div class="nav__menu" id="nav-menu">
+          <ul class="nav__list grid">
+            <li class="nav__item">
+              <a href="#home" class="nav__link active-link">
+                <i class="uil uil-estate nav__icon"></i> Accueil
+              </a>
+            </li>
+            <li class="nav__item">
+              <a href="#about" class="nav__link">
+                <i class="uil uil-user nav__icon"></i> À propos
+              </a>
+            </li>
+            <li class="nav__item">
+              <a href="#skills" class="nav__link">
+                <i class="uil uil-file-alt nav__icon"></i> Compétences
+              </a>
+            </li>
+            <li class="nav__item">
+              <a href="#stage" class="nav__link">Stage</a>
+              </li>
+            <li class="nav__item">
+              <a href="#portfolio" class="nav__link">
+                <i class="uil uil-scenery nav__icon"></i> Formations
+              </a>
+            </li>
+            
+            <li class="nav__item">
+              <a href="#veille" class="nav__link">
+                <i class="uil uil-message nav__icon"></i> Veille technologique
+              </a>
+            </li>
+            <li class="nav__item">
+              <a href="#certification" class="nav__link">
+                <i class="uil uil-message nav__icon"></i> Certification
+              </a>
+            </li>
+            <li class="nav__item">
+              <a href="#contact" class="nav__link">
+                <i class="uil uil-message nav__icon"></i> Contact
+              </a>
+            </li>
+            
+             
+            
+          </ul>
+          <i class="uil uil-times nav__close" id="nav-close"></i>
+        </div>
+
+        <div class="nav__btns">
+          <!--Theme change button-->
+          <i class="uil uil-moon change-theme" id="theme-buttons"></i>
+          <div class="nav__toggle" id="nav-toggle">
+            <i class="uil uil-apps"></i>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <!--==================== MAIN ====================-->
+    <main class="main">
+      <!--==================== HOME ====================-->
+      <section class="home section" id="home">
+        <div class="home__container container grid">
+          <div class="home__content grid">
+            <div class="home__social">
+              <a
+                href="https://www.linkedin.com/in/fayssal-mechmeche-287446207/"
+                target="_blank"
+                class="home__social-icon"
+              >
+                <i class="uil uil-linkedin"></i>
+             
+              <a
+                href="https://github.com/fayssalmechmeche"
+                target="_blank"
+                class="home__social-icon"
+              >
+                <i class="uil uil-github-alt"></i>
+              </a>
+            </div>
+            <div class="home__img">
+              <svg
+                class="home__blob"
+                viewBox="0 0 200 187"
+                xmlns="http://www.w3.org/2000/svg"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+              >
+                <mask id="mask0" mask-type="alpha">
+                  <path
+                    d="M190.312 36.4879C206.582 62.1187 201.309 102.826 182.328 134.186C163.346 165.547 
+                                    130.807 187.559 100.226 186.353C69.6454 185.297 41.0228 161.023 21.7403 129.362C2.45775 
+                                    97.8511 -7.48481 59.1033 6.67581 34.5279C20.9871 10.1032 59.7028 -0.149132 97.9666 
+                                    0.00163737C136.23 0.303176 174.193 10.857 190.312 36.4879Z"
+                  />
+                </mask>
+                <g mask="url(#mask0)">
+                  <path
+                    d="M190.312 36.4879C206.582 62.1187 201.309 102.826 182.328 134.186C163.346 
+                                    165.547 130.807 187.559 100.226 186.353C69.6454 185.297 41.0228 161.023 21.7403 
+                                    129.362C2.45775 97.8511 -7.48481 59.1033 6.67581 34.5279C20.9871 10.1032 59.7028 
+                                    -0.149132 97.9666 0.00163737C136.23 0.303176 174.193 10.857 190.312 36.4879Z"
+                  />
+                  
+                  <image
+                    class="home__blob-img"
+                    x="12"
+                    y="18"
+                    
+                    xlink:href="assets/img/logo.png" 
+                  /> 
+                </g>
+              </svg>
+            </div>
+            <div class="home__data">
+              <h1 class="home__title">Mechmeche Fayssal</h1>
+              <h3 class="home__subtitle">Etudiant en BTS SIO</h3>
+              <p class="home__description">
+                Je suis actuellement étudiant en 2ème année de BTS SIO au lycée René Descartes.
+              </p>
+              <a href="#contact" class="button button--flex">
+                Me contacter <i class="uil uil-message button__icon"></i>
+              </a>
+            </div>
+          </div>
+          <div class="home__scroll">
+            <a href="#about" class="home__scroll-button button--flex">
+              <i class="uil uil-mouse-alt home__scroll-mouse"></i>
+              <span class="home__scroll-name">Descendre</span>
+              <i class="uil uil-arrow-down home__scroll-arrow"></i>
+            </a>
+          </div>
+        </div>
+      </section>
+      <!--==================== ABOUT ====================-->
+      <section class="about section" id="about">
+        <h2 class="section__title" id="about">À propos de moi</h2>
+        <span class="section__subtitle">Présentation</span>
+        <div class="about__container container grid">
+          <img src="assets/img/presentation.png" alt="" class="about__img" />
+          <div class="about__data">
+            <p class="about__description">
+             Passionné d'informatique, dans le domaine du Développement Web et la Cybersecurité, j'aimerais développé mes compétences dans ces domaines.
+            </p>
+            
+
+            <div class="about__buttons">
+              <a
+                download=""
+                href="assets/pdf/Fayssal-Cv.pdf"
+                class="button button--flex"
+              >
+                Télécharger le CV<i class="uil uil-import button__icon"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!--==================== SKILLS ====================-->
+      <section class="skills section" id="skills">
+        <h2 class="section__title">Compétences</h2>
+
+        
+        <div class="skills__container container grid">
+          <div>
+            <!--==================== SKILLS 1 ====================-->
+            <div class="skills__content skills__open">
+              <div class="skills__header">
+                <i class="uil uil-brackets-curly skills__icon"></i>
+                <div>
+                  <h1 class="skills__titles">Fronted developer</h1>
+                  
+                </div>
+                <i class="uil uil-angle-down skills__arrow"></i>
+              </div>
+              <div class="skills__list grid">
+                <div class="skills__data">
+                  <div class="skills__titles">
+                    <h3 class="skills__name">HTML</h3>
+                    <span class="skill__number">90%</span>
+                  </div>
+                  <div class="skills__bar">
+                    <span class="skills__percentage skills__html"></span>
+                  </div>
+                </div>
+                <div class="skills__data">
+                  <div class="skills__titles">
+                    <h3 class="skills__name">CSS</h3>
+                    <span class="skill__number">70%</span>
+                  </div>
+                  <div class="skills__bar">
+                    <span class="skills__percentage skills__css"></span>
+                  </div>
+                </div>
+                <div class="skills__data">
+                  <div class="skills__titles">
+                    <h3 class="skills__name">JavaScript</h3>
+                    <span class="skill__number">10%</span>
+                  </div>
+                  <div class="skills__bar">
+                    <span class="skills__percentage skills__js"></span>
+                  </div>
+                </div>
+                
+              </div>
+            </div>
+          </div>
+          <div>
+            <!--==================== SKILLS 2 ====================-->
+            <div class="skills__content skills__close">
+              <div class="skills__header">
+                <i class="uil uil-server-network skills__icon"></i>
+                <div>
+                  <h1 class="skills__titles">BackEnd developer</h1>
+                  
+                </div>
+                <i class="uil uil-angle-down skills__arrow"></i>
+              </div>
+              
+              <div class="skills__list grid">
+                <div class="skills__data">
+                  <div class="skills__titles">
+                    <h3 class="skills__name">Python</h3>
+                    <span class="skill__number">45%</span>
+                  </div>
+                  <div class="skills__bar">
+                    <span class="skills__percentage skills__python"></span>
+                  </div>
+                </div>
+                <div class="skills__data">
+                  <div class="skills__titles">
+                    <h3 class="skills__name">PHP</h3>
+                    <span class="skill__number">50%</span>
+                  </div>
+                  <div class="skills__bar">
+                    <span class="skills__percentage skills__php"></span>
+                  </div>
+                </div>
+                <div class="skills__data">
+                  <div class="skills__titles">
+                    <h3 class="skills__name">MySQL</h3>
+                    <span class="skill__number">50%</span>
+                  </div>
+                  <div class="skills__bar">
+                    <span class="skills__percentage skills__mysql"></span>
+                  </div>
+                </div>
+                <div class="skills__data">
+                  <div class="skills__titles">
+                    <h3 class="skills__name">PostgreSQL</h3>
+                    <span class="skill__number">50%</span>
+                  </div>
+                  <div class="skills__bar">
+                    <span class="skills__percentage skills__postgresql"></span>
+                  </div>
+                </div>
+                
+                
+              </div>
+            </div>
+          </div>
+          <div>
+            <!--==================== SKILLS 3 ====================-->
+            <div class="skills__content skills__close">
+              <div class="skills__header">
+                <i class="uil uil-swatchbook skills__icon"></i>
+                <div>
+                  <h1 class="skills__titles">Designer</h1>
+                  
+                </div>
+                <i class="uil uil-angle-down skills__arrow"></i>
+              </div>
+              <div class="skills__list grid">
+                <div class="skills__data">
+                  <div class="skills__titles">
+                    <h3 class="skills__name">UML</h3>
+                    <span class="skill__number">90%</span>
+                  </div>
+                  <div class="skills__bar">
+                    <span class="skills__percentage skills__uml"></span>
+                  </div>
+                </div>
+                
+                <div class="skills__data">
+                  <div class="skills__titles">
+                    <h3 class="skills__name">Photoshop</h3>
+                    <span class="skill__number">75%</span>
+                  </div>
+                  <div class="skills__bar">
+                    <span class="skills__percentage skills__photoshop"></span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!--==================== QUALIFICATION ====================-->
+      <section class="qualification section">
+        <h2 class="section__title">Qualifications</h2>
+        
+
+        <div class="qualification__container container">
+          <div class="qualification__tabs">
+            <div
+              class="qualification__button button--flex qualification__active"
+              data-target="#education"
+            >
+              <i class="uil uil-graduation-cap qualification__icon"></i>
+              Formations
+            </div>
+            <div class="qualification__button button--flex" data-target="#work">
+              <i class="uil uil-briefcase-alt qualification__icon"></i>
+              Expériences
+            </div>
+          </div>
+          <div class="qualification__sections">
+            <!--==================== QUALIFICATION CONTENT 1 ====================-->
+            <div
+              class="qualification__content qualification__active"
+              data-content
+              id="education"
+            >
+              <!--==================== QUALIFICATION 1 ====================-->
+              <div class="qualification__data">
+                <div>
+                  <h3 class="qualification__title">Diplôme du baccalauréat STI2D </h3>
+                  <span class="qualification__subtitle">Lycée Gustave Eiffel | Gagny, France</span>
+                  <div class="qualification__calendar">
+                    <i class="uil uil-calendar-alt"></i>
+                    2019 – 2020
+                  </div>
+                </div>
+                <div>
+                  <span class="qualification__rounder"></span>
+                  <span class="qualification__line"></span>
+                </div>
+              </div>
+              <!--==================== QUALIFICATION 2 ====================-->
+              <div class="qualification__data">
+                <div></div>
+                <div>
+                  <span class="qualification__rounder"></span>
+                  <span class="qualification__line"></span>
+                </div>
+                <div>
+                  <h3 class="qualification__title">Première année de BTS SIO</h3>
+                  <span class="qualification__subtitle">Lycée René Descartes | Champs-sur-Marne, France</span>
+                  <div class="qualification__calendar">
+                    <i class="uil uil-calendar-alt"></i>
+                    2020 – 2021 
+                  </div>
+                </div>
+              </div>
+              <!--==================== QUALIFICATION 3 ====================-->
+              <div class="qualification__data">
+                <div>
+                  <h3 class="qualification__title">Deuxième année de BTS SIO </h3>
+                  <span class="qualification__subtitle">Lycée René Descartes | Champs-sur-Marne, France</span>
+                  <div class="qualification__calendar">
+                    <i class="uil uil-calendar-alt"></i>
+                    2021 – 2022 
+                  </div>
+                </div>
+                <div>
+                  <span class="qualification__rounder"></span>
+                  <span class="qualification__line"></span>
+                </div>
+              </div>
+              <!--==================== QUALIFICATION 4 ====================-->
+             
+            </div> 
+
+            <!--==================== QUALIFICATION CONTENT 2 ====================-->
+            <div class="qualification__content" data-content id="work">
+              <!--==================== QUALIFICATION 1 ====================-->
+              <div class="qualification__data">
+                <div>
+                  <h3 class="qualification__title">Stage – COCO CHANNEL</h3>
+                  <span class="qualification__subtitle">Paris, France </span>
+                  <div class="qualification__calendar">
+                    <i class="uil uil-calendar-alt"></i>
+                    Mai 2016 – Juin 2016
+                  </div>
+                </div>
+                <div>
+                  <span class="qualification__rounder"></span>
+                  <span class="qualification__line"></span>
+                </div>
+              </div>
+              <!--==================== QUALIFICATION 2 ====================-->
+              <div class="qualification__data">
+                <div></div>
+                <div>
+                  <span class="qualification__rounder"></span>
+                  <span class="qualification__line"></span>
+                </div>
+                <div>
+                  <h3 class="qualification__title">Formation professionnalisante - MAHI  </h3>
+                  <span class="qualification__subtitle">Paris, France </span>
+                  <div class="qualification__calendar">
+                    <i class="uil uil-calendar-alt"></i>
+                    Mars 2021 – Mai 2021
+                  </div>
+                </div>
+              </div>
+              <!--==================== QUALIFICATION 3 ====================-->
+              <div class="qualification__data">
+                <div>
+                  <h3 class="qualification__title">Stage pratique - MAHI </h3>
+                  <span class="qualification__subtitle">Paris, France </span>
+                  <div class="qualification__calendar">
+                    <i class="uil uil-calendar-alt"></i>
+                    Mai 2021 – Juillet 2021
+                  </div>
+                </div>
+                <div>
+                  <span class="qualification__rounder"></span>
+                  <!--<span class="qualification__line"></span>-->
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- STAGE-->
+
+        
+      <section class="portfolio section" id="stage">
+        <h2 class="section__title">Stage</h2>
+        <br>
+
+        <h2 class="section__title">MAHI</h2>
+        <br>
+        <div class="qualification__container container">
+        <h1>Micro entreprise de developpement cloud</h1>
+        <br>
+        <p>
+          Activité : Edition de logiciels applicatifs (5829C)  </p>
+          <br>
+          <p>
+            Forme juridique : SASU Société par actions simplifiée à associé unique</p>
+        </div>
+        <br>
+        
+        <br>
+        <h2 class="section__title">Mes missions</h2>
+        <br>
+        <br>
+        <br>
+        <br>
+
+
+
+
+        <div class="container">
+          <div class="card">
+            <div class="card__header">
+              <img src="https://source.unsplash.com/600x400/?computer" alt="card__image" class="card__image" width="600">
+            </div>
+            <div class="card__body">
+              <span class="tag tag-blue">2 semaines</span>
+              <a href="https://github.com/fayssalmechmeche/CitationAnime"><h4>APPLICATION ANDROID</h4></a>
+              <p>Réalisation d'une application sur android qui affiche une citation d'un personnage connu avec son image selon le nombre que le dé donne</p>
+            </div>
+            
+          </div>
+          <div class="card">
+            <div class="card__header">
+              <img src="https://images.unsplash.com/photo-1515643395264-3f8c19a2dc77?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=400&ixid=MnwxfDB8MXxyYW5kb218MHx8Y29tcHV0ZXJ8fHx8fHwxNjQ5MTYwMzAz&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=600" alt="card__image" class="card__image" width="600">
+            </div>
+            <div class="card__body">
+              <span class="tag tag-brown">1 semaine</span>
+              <a href="https://github.com/fayssalmechmeche/TP/blob/main/script.pdf"><h4>POWERSHELL</h4></a>
+              <p>Réalisation d'un script powershell qui sauvegarde automatiquement des données sur un serveur Microsoft Azure</p>
+            </div>
+            
+          </div>
+          
+        </div>
+
+        <br>
+        <br>
+        
+
+        <h2 class="section__title">EZCORPORATION</h2>
+        <br>
+        <div class="qualification__container container">
+
+          <h1>Association d’entraide informatique dans le domaine du développement et de l'administration système et réseau.
+          </h1>
+          <br>
+          <p>Activité : Edition de logiciels applicatifs (5829C) </p>
+          <br>
+<table>
+	
+	<tr>
+		<td>
+			<iframe src="assets/pdf/stage.pdf" width="800" height="600" align="middle"></iframe>
+		</td>
+	</tr>
+</table>
+		<br>
+		<br>
+		 <img
+                src="assets/img/activite.png"
+                alt=""
+                
+              />
+		<br>
+		<br>
+
+        <img
+                src="assets/img/activite.PNG"
+                alt=""
+                
+              />
+
+        <br>
+        <br>
+        <br>
+        <br>
+        <h2 class="section__title">Mes missions</h2>
+        <br>
+        <br>
+        <br>
+        <br>
+
+
+
+
+        <div class="container">
+          <div class="card">
+            <div class="card__header">
+              <img src="https://source.unsplash.com/600x400/?computer" alt="card__image" class="card__image" width="600">
+            </div>
+            <div class="card__body">
+              <span class="tag tag-blue">1 semaines</span>
+              <h4>Documentation API PLESK</h4>
+              <p>Realisation de la Documentation de l'API PLESK afin de faciliter l'utilisation de l'API</p>
+            </div>
+            
+          </div>
+          <div class="card">
+            <div class="card__header">
+              <img src="https://images.unsplash.com/photo-1515643395264-3f8c19a2dc77?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=400&ixid=MnwxfDB8MXxyYW5kb218MHx8Y29tcHV0ZXJ8fHx8fHwxNjQ5MTYwMzAz&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=600" alt="card__image" class="card__image" width="600">
+            </div>
+            <div class="card__body">
+              <span class="tag tag-brown">2 semaines</span>
+              <h4>Back End</h4>
+              <p>Réalisation de la partie administration du site internet EZCORPORATION status page</p>
+            </div>
+            
+          </div>
+          <div class="card">
+            <div class="card__header">
+              <img src="https://images.unsplash.com/photo-1420310414923-bf3651a89816?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=400&ixid=MnwxfDB8MXxyYW5kb218MHx8Y29tcHV0ZXJ8fHx8fHwxNjQ5MTYwMzM2&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=600" alt="card__image" class="card__image" width="600">
+            </div>
+            <div class="card__body">
+              <span class="tag tag-red">1 mois</span>
+              <h4>Monitoring automatique</h4>
+              <p>Réalisation d'un monitoring automatique des differents services de l'Association EZCORPORATION</p>
+            </div>
+            
+          </div>
+        </div>
+
+
+
+
+
+
+
+
+      </section>
+      <!--==================== PORTFOLIO ====================-->
+      <section class="portfolio section" id="portfolio">
+        <h2 class="section__title">BTS Services Informatiques aux Organisations</h2>
+        <br>
+        <br>
+        
+        <div class="portfolio__container container swiper-container">
+          <div>
+            Diplôme reconnu par l'État de niveau Bac + 2. <br>
+            La personne concernée est formée à la mise en place de services informatiques, dans le domaine des applications, des systèmes et réseaux.<br>
+
+            
+          </div>
+            <br>
+            <br>
+            
+          <div class="swiper-wrapper">
+            <!--==================== PORTFOLIO 1 ====================-->
+            
+
+            <div class="portfolio__content grid swiper-slide">
+              <img
+                src="assets/img/php.png"
+                alt=""
+                class="portfolio__img"
+              />
+              <div class="portfolio__data">
+                <h3 class="portfolio__title">TP GITHUB</h3>
+                <p class="portfolio__descriptio">
+                  TP réalisé pendant ma période scolaire
+                </p>
+                <br>
+                <a
+                  href="https://github.com/fayssalmechmeche/projTpGit-Mechmeche"
+                  class="button button--flex button--small portfolio__button"
+                >
+                  Voir
+                  <i class="uil uil-arrow-right button__icon"></i>
+                </a>
+              </div>
+            </div>
+
+            <!----->
+            <div class="portfolio__content grid swiper-slide">
+              <img
+                src="assets/img/projet2.png"
+                alt=""
+                class="portfolio__img"
+              />
+              <div class="portfolio__data">
+                <h3 class="portfolio__title">TP IP PACKAGE</h3>
+                <p class="portfolio__descriptio">
+                  TP réalisé pendant ma période scolaire
+                </p>
+                <br>
+                <a
+                  href="https://github.com/fayssalmechmeche/IpPackage"
+                  class="button button--flex button--small portfolio__button"
+                >
+                  Voir
+                  <i class="uil uil-arrow-right button__icon"></i>
+                </a>
+              </div>
+            </div>
+            <!----->
+            <div class="portfolio__content grid swiper-slide">
+              <img
+                src="assets/img/projet2.png"
+                alt=""
+                class="portfolio__img"
+              />
+              <div class="portfolio__data">
+                <h3 class="portfolio__title">TP TRIANGLE</h3>
+                <p class="portfolio__descriptio">
+                  TP réalisé pendant ma période scolaire
+                </p>
+                <br>
+                <a
+                  href="https://github.com/fayssalmechmeche/Triangle"
+                  class="button button--flex button--small portfolio__button"
+                >
+                  Voir
+                  <i class="uil uil-arrow-right button__icon"></i>
+                </a>
+              </div>
+            </div>
+            <!----->
+            <div class="portfolio__content grid swiper-slide">
+              <img
+                src="assets/img/projet2.png"
+                alt=""
+                class="portfolio__img"
+              />
+              <div class="portfolio__data">
+                <h3 class="portfolio__title">TP FRACTION</h3>
+                <p class="portfolio__descriptio">
+                  TP réalisé pendant ma période scolaire
+                </p>
+                <br>
+                <a
+                  href="https://github.com/fayssalmechmeche/Fraction"
+                  class="button button--flex button--small portfolio__button"
+                >
+                  Voir
+                  <i class="uil uil-arrow-right button__icon"></i>
+                </a>
+              </div>
+            </div>
+            <!--==================== PORTFOLIO 2 ====================-->
+            
+            <!--==================== Portfolio 3 ====================-->
+            
+          </div>
+            
+          <!-- Add Arrows-->
+          <div class="swiper-button-next">
+            <i class="uil uil-angle-right-b swiper-portfolio-icon"></i>
+          </div>
+          <div class="swiper-button-prev">
+            <i class="uil uil-angle-left-b swiper-portfolio-icon"></i>
+          </div>
+          <!-- Add Pagination-->
+          <div class="swiper-pagination"></div>
+        </div>
+      </section>
+        
+        <div class="portfolio__container container swiper-container">
+          <div class="swiper-wrapper">
+            <!--==================== PORTFOLIO 1 ====================-->
+            <div class="portfolio__content grid swiper-slide">
+              <img
+                src="assets/img/projet1.png"
+                alt=""
+                class="portfolio__img"
+              />
+              <div class="portfolio__data">
+                <h3 class="portfolio__title">Projet CVVEN CodeIgniter</h3>
+                <p class="portfolio__descriptio">
+                  Projet réalisé avec le framework CodeIgniter
+                </p>
+                <br>
+                <a
+                  href="https://github.com/fayssalmechmeche/projet"
+                  class="button button--flex button--small portfolio__button"
+                >
+                  Voir
+                  <i class="uil uil-arrow-right button__icon"></i>
+                </a>
+              </div>
+            </div>
+            <!--==================== PORTFOLIO 2 ====================-->
+            <div class="portfolio__content grid swiper-slide">
+              <img
+                src="assets/img/projet2.png"
+                alt=""
+                class="portfolio__img"
+              />
+              <div class="portfolio__data">
+                <h3 class="portfolio__title">Projet CVVEN Java</h3>
+                <p class="portfolio__descriptio">
+                 Projet réalisé avec le langage de programmation Java
+                </p>
+                <br>
+                <a
+                  href="https://fayssalmechmeche.github.io/PortFolio/projet2.html"
+                  class="button button--flex button--small portfolio__button"
+                >
+                  Voir
+                  <i class="uil uil-arrow-right button__icon"></i>
+                </a>
+              </div>
+            </div>
+            <!--==================== Portfolio 3 ====================-->
+            
+          </div>
+            
+          <!-- Add Arrows-->
+          <div class="swiper-button-next">
+            <i class="uil uil-angle-right-b swiper-portfolio-icon"></i>
+          </div>
+          <div class="swiper-button-prev">
+            <i class="uil uil-angle-left-b swiper-portfolio-icon"></i>
+          </div>
+          <!-- Add Pagination-->
+          <div class="swiper-pagination"></div>
+        </div>
+      </section>
+
+      
+
+        <!--==================== VEILLE TECHNOLOGIQUE ====================-->
+      <section class="portfolio section" id="veille">
+        <h2 class="section__title">Veille Technologique</h2>
+       
+        <div class="portfolio__container container swiper-container">
+          <div class="swiper-wrapper">
+            <!--==================== Veille 1 ====================-->
+            <div class="portfolio__content grid swiper-slide">
+              <img
+                src="assets/img/portfolio1.jpg"
+                alt=""
+                class="portfolio__img"
+              />
+              <div class="portfolio__data">
+                <h3 class="portfolio__title">NFT (JETON NON FONGIBLE)</h3>
+                <p class="portfolio__descriptio">
+                  Un NFT est une donnée valorisée composée d'un type de jeton cryptographique qui représente un objet, auquel est rattachée une identité numérique. Cette donnée est stockée et authentifiée grâce à un protocole de chaîne de blocs, qui lui accorde par là-même sa première valeur.
+                </p>
+                <br>
+                <a
+                  href="https://fayssalmechmeche.github.io/PortFolio/veille1.html"
+                  class="button button--flex button--small portfolio__button"
+                >
+                  Voir
+                  <i class="uil uil-arrow-right button__icon"></i>
+                </a>
+              </div>
+            </div>
+            
+          <!-- Add Arrows-->
+          <div class="swiper-button-next">
+            <i class="uil uil-angle-right-b swiper-portfolio-icon"></i>
+          </div>
+          <div class="swiper-button-prev">
+            <i class="uil uil-angle-left-b swiper-portfolio-icon"></i>
+          </div>
+          <!-- Add Pagination-->
+          <div class="swiper-pagination"></div>
+        </div>
+      </section>
+        
+        
+      <!--==================== Certification ====================-->
+            <section class="project section" id="certification">
+        <div class="project__bg">
+          <div class="project__container container grid">
+            <div class="project__data">
+              <h2 class="project__title">Certification </h2>
+              
+              <a href="https://fayssalmechmeche.github.io/PortFolio/certification.html" class="button button--flex button--white">
+                Certification
+                <i class="uil uil-message project__icon button__icon"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+        
+      </section>
+
+      <!--==================== PROJECT IN MIND ====================-->
+      <section class="project section">
+        <div class="project__bg">
+          <div class="project__container container grid">
+            <div class="project__data">
+              <h2 class="project__title">Formulaire </h2>
+              
+              <a href="#contact" class="button button--flex button--white">
+                Contactez-moi
+                <i class="uil uil-message project__icon button__icon"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!--==================== CONTACT ME ====================-->
+      <section class="contact section" id="contact">
+        <h2 class="section__title">Contactez Moi</h2>
+        <div class="contact__container container grid">
+          <div>
+            <div class="contact__information">
+              <i class="uil uil-phone contact__icon"></i>
+              <div>
+                <h3 class="contact__title">Téléphone : </h3>
+                <span class="contact__subtitle">07 68 61 73 53</span>
+              </div>
+            </div>
+            <div class="contact__information">
+              <i class="uil uil-envelope contact__icon"></i>
+              <div>
+                <h3 class="contact__title">Email</h3>
+                <span class="contact__subtitle">fayssalmechmeche.pro@gmail.com</span>
+              </div>
+            </div>
+            <div class="contact__information">
+              <i class="uil uil-map-marker contact__icon"></i>
+              <div>
+                <h3 class="contact__title">Localisation</h3>
+                <span class="contact__subtitle">Gagny</span>
+              </div>
+            </div>
+          </div>
+          <form action="" class="contact__form grid">
+            <div class="contact__inputs grid">
+              <div class="contact__content">
+                <label for="" class="contact__label">Nom</label>
+                <input type="text" class="contact__input" id="nom" />
+              </div>
+              <div class="contact__content">
+                <label for="" class="contact__label">Prénom</label>
+                <input type="text" class="contact__input" id="prenom"/>
+              </div>
+              <div class="contact__content">
+                <label for="" class="contact__label">Email</label>
+                <input type="email" class="contact__input" id="email"/>
+              </div>
+            </div>
+            <div class="contact__content">
+              <label for="" class="contact__label">Sujet</label>
+              <input type="text" class="contact__input" id="sujet"/>
+            </div>
+            <div class="contact__content">
+              <label for="" class="contact__label">Message</label>
+              
+              <textarea
+                name=""
+                id="message"
+                cols="0"
+                rows="7"
+                class="contact__input"
+              ></textarea>
+            </div>
+            <div>
+              <a onclick='sendMail(),sendAlert()' class="button button--flex">
+                Envoyer le message
+                <i class="uil uil-message button__icon"></i>
+              </a>
+            </div>
+          </form>
+        </div>
+      </section>
+    </main>
+
+      
+      
+    <!--==================== FOOTER ====================-->
+    <footer class="footer">
+      <div class="footer__bg">
+        <div class="footer__container container grid">
+          <div>
+            <h1 class="footer__title">Fayssal Mechmeche</h1>
+            <span class="footer__subtitle">Etudiant en BTS SIO</span>
+          </div>
+          <ul class="footer__links">
+            
+            <li>
+              <a href="#portfolio" class="footer__link">Portfolio</a>
+            </li>
+            <li>
+              <a href="#veille" class="footer__link">Veille technologique</a>
+            </li>
+            <li>
+              <a href="#contact" class="footer__link">Contactez-Moi</a>
+            </li>
+          </ul>
+          <div class="footer__socials">
+          
+            
+            <a
+              href="https://twitter.com/"
+              target="_blank"
+              class="footer__social"
+            >
+              <i class="uil uil-twitter-alt"></i>
+            </a>
+          </div>
+        </div>
+        <p class="footer__copy">&#169; 2022 Mechmeche Fayssal. Tous droits réservés.</p>
+      </div>
+    </footer>
+
+    <!--==================== SCROLL TOP ====================-->
+    <a href="#" class="scrollup" id="scroll-up">
+      <i class="uil uil-arrow-up scrollup__icon"></i>
+    </a>
+
+    <!--==================== SWIPER JS ====================-->
+    <script src="assets/js/swiper-bundle.min.js"></script>
+
+    <!--==================== MAIN JS ====================-->
+    <script src="assets/js/main.js"></script>
+
+    <!--==================== SCRIPT ====================-->
+      
+      <script src="main.js"></script>
+
+    <script type="text/javascript"
+        src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js"> </script>
+<script type="text/javascript">
+   (function(){
+      emailjs.init("user_2Pj5Q8OTGbzBog3xgcKCQ");
+   })();
+</script>
+
+      <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+      
+    
+
+
+  </body>
+</html>

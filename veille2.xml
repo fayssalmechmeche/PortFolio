@@ -1,0 +1,153 @@
+<rss version="2.0">
+<channel>
+<title>Techniques-ingenieur.fr : les nouveautés des ressources documentaires Technologies de l'information : Sécurité des systèmes d'information</title>
+<link>https://www.techniques-ingenieur.fr#notfound</link>
+<description>Retrouvez les dernières parutions de cette base documentaire.</description>
+<image>
+<url>https://cdn.techniques-ingenieur.fr/lucy/ti/cdn.prod.v1.27.0/images/logo-eti.png</url>
+<title>Techniques-ingenieur.fr : les nouveautés des ressources documentaires Technologies de l'information : Sécurité des systèmes d'information</title>
+<link>https://www.techniques-ingenieur.fr/</link>
+</image>
+<lastBuildDate>Thu, 25 Nov 2021 22:17:15 +0100</lastBuildDate>
+<item>
+<title>Réglementation en matière de cryptologie</title>
+<link>https://www.techniques-ingenieur.fr/base-documentaire/technologies-de-l-information-th9/securite-des-si-organisation-dans-l-entreprise-et-legislation-42458210/reglementation-en-matiere-de-cryptologie-h5060/</link>
+<guid isPermaLink="true">https://www.techniques-ingenieur.fr/base-documentaire/technologies-de-l-information-th9/securite-des-si-organisation-dans-l-entreprise-et-legislation-42458210/reglementation-en-matiere-de-cryptologie-h5060/</guid>
+<description><p>L'utilisation de la cryptologie est aujourd'hui largement répandue. Toutefois quelle est la réglementation qui régit ce type de produit, en France, en Europe et dans le monde ? </p></description>
+<pubDate>Wed, 25 Aug 2021 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Système d’information hybride et sécurité : un retour à la réalité</title>
+<link>https://www.techniques-ingenieur.fr/base-documentaire/technologies-de-l-information-th9/securite-des-si-organisation-dans-l-entreprise-et-legislation-42458210/systeme-d-information-hybride-et-securite-un-retour-a-la-realite-h5140/</link>
+<guid isPermaLink="true">https://www.techniques-ingenieur.fr/base-documentaire/technologies-de-l-information-th9/securite-des-si-organisation-dans-l-entreprise-et-legislation-42458210/systeme-d-information-hybride-et-securite-un-retour-a-la-realite-h5140/</guid>
+<description><p>C'est la mission de l'architecte des systèmes d'information que de bâtir des SI fonctionnels et résistants. Face à des menaces grandissantes et protéiformes, comment concevoir des architectures solides et détecter les intrusions malheureusement incontournables ? </p></description>
+<pubDate>Fri, 23 Jul 2021 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Maîtrise des risques cyber - Identification, détection, analyse</title>
+<link>https://www.techniques-ingenieur.fr/base-documentaire/environnement-securite-th5/menaces-et-vulnerabilites-protection-des-sites-industriels-42648210/maitrise-des-risques-cyber-se2505/</link>
+<guid isPermaLink="true">https://www.techniques-ingenieur.fr/base-documentaire/environnement-securite-th5/menaces-et-vulnerabilites-protection-des-sites-industriels-42648210/maitrise-des-risques-cyber-se2505/</guid>
+<description><p>Les enjeux de la protection contre la cybercriminalité sont énormes. La prévention de tels risques doit se faire de manière globale, en traitement du risque mais également en prévention et en détection des menaces. </p></description>
+<pubDate>Wed, 16 Jun 2021 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Risques en cybersécurité de l’IoT - Panorama des principales menaces</title>
+<link>https://www.techniques-ingenieur.fr/base-documentaire/technologies-de-l-information-th9/attaques-et-mesures-de-protection-des-si-42313210/risques-en-cybersecurite-de-l-iot-h5846/</link>
+<guid isPermaLink="true">https://www.techniques-ingenieur.fr/base-documentaire/technologies-de-l-information-th9/attaques-et-mesures-de-protection-des-si-42313210/risques-en-cybersecurite-de-l-iot-h5846/</guid>
+<description><p>Il y a de plus en plus d'objets connectés et pourtant ils restent très immatures face aux menaces croissantes de cybercriminalité. Quelles sont les problématiques et les menaces à prendre en compte pour améliorer la sécurité de l'Internet des objets ?</p></description>
+<pubDate>Wed, 19 May 2021 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Usage de l’authentification dans le domaine bancaire</title>
+<link>https://www.techniques-ingenieur.fr/base-documentaire/technologies-de-l-information-th9/securite-des-si-services-et-applications-42315210/usage-de-l-authentification-dans-le-domaine-bancaire-h5536/</link>
+<guid isPermaLink="true">https://www.techniques-ingenieur.fr/base-documentaire/technologies-de-l-information-th9/securite-des-si-services-et-applications-42315210/usage-de-l-authentification-dans-le-domaine-bancaire-h5536/</guid>
+<description><p>L'authentification occupe une place centrale dans la sécurité bancaire. L'enjeu est considérable avec le développement des services connectés, et les menaces qui pèsent sur les particuliers, les entreprises, les organisations, les administrations et leur système d'information sont bien réelles. </p></description>
+<pubDate>Thu, 04 Feb 2021 00:00:00 +0100</pubDate>
+</item>
+<item>
+<title>Réseaux de communication protecteurs - Des réponses coordonnées à des attaques distribuées</title>
+<link>https://www.techniques-ingenieur.fr/base-documentaire/technologies-de-l-information-th9/administration-de-reseaux-applications-et-mise-en-oeuvre-42481210/reseaux-de-communication-protecteurs-te7750/</link>
+<guid isPermaLink="true">https://www.techniques-ingenieur.fr/base-documentaire/technologies-de-l-information-th9/administration-de-reseaux-applications-et-mise-en-oeuvre-42481210/reseaux-de-communication-protecteurs-te7750/</guid>
+<description><p>Les services de mitigation peuvent-ils offrir une protection contre la prolifération des attaques informatiques ? Découvrez le fonctionnement et les caractéristiques de l'approche Protective Network.</p></description>
+<pubDate>Thu, 07 Jan 2021 00:00:00 +0100</pubDate>
+</item>
+<item>
+<title>Signature électronique eIDAS</title>
+<link>https://www.techniques-ingenieur.fr/base-documentaire/technologies-de-l-information-th9/cryptographie-authentification-protocoles-de-securite-vpn-42314210/signature-electronique-eidas-h5065/</link>
+<guid isPermaLink="true">https://www.techniques-ingenieur.fr/base-documentaire/technologies-de-l-information-th9/cryptographie-authentification-protocoles-de-securite-vpn-42314210/signature-electronique-eidas-h5065/</guid>
+<description><p>Que dit le nouveau règlement européen eIDAS à propos de la signature électronique ? Peut-on espérer grâce à ce règlement une utilisation plus universelle de la signature électronique ? </p></description>
+<pubDate>Fri, 16 Oct 2020 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Solutions NAC de contrôle d’accès au réseau</title>
+<link>https://www.techniques-ingenieur.fr/base-documentaire/technologies-de-l-information-th9/attaques-et-mesures-de-protection-des-si-42313210/solutions-nac-de-controle-d-acces-au-reseau-h5845/</link>
+<guid isPermaLink="true">https://www.techniques-ingenieur.fr/base-documentaire/technologies-de-l-information-th9/attaques-et-mesures-de-protection-des-si-42313210/solutions-nac-de-controle-d-acces-au-reseau-h5845/</guid>
+<description><p>Conçus au départ pour autoriser des connexions sans contrôle d'équipements, les réseaux locaux doivent être sécurisés pour s'adapter à l'évolution du marché et à la multiplication des équipements. Les solutions Network Access Control permettent de répondre à ces besoins croissants de sécurisation. </p></description>
+<pubDate>Fri, 10 Jul 2020 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Lutte contre le vol, la copie et la contrefaçon des circuits intégrés</title>
+<link>https://www.techniques-ingenieur.fr/base-documentaire/technologies-de-l-information-th9/attaques-et-mesures-de-protection-des-si-42313210/lutte-contre-le-vol-la-copie-et-la-contrefacon-des-circuits-integres-h5364/</link>
+<guid isPermaLink="true">https://www.techniques-ingenieur.fr/base-documentaire/technologies-de-l-information-th9/attaques-et-mesures-de-protection-des-si-42313210/lutte-contre-le-vol-la-copie-et-la-contrefacon-des-circuits-integres-h5364/</guid>
+<description><p>Le vol et la contrefaçon des circuits intégrés représentent un marché parallèle et un poids économique très importants. Un constat est que l'on peut retrouver de tels circuits intégrés dans tous les systèmes, même les plus sécurisés...</p></description>
+<pubDate>Thu, 07 May 2020 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Cyberespionnage : la menace APT</title>
+<link>https://www.techniques-ingenieur.fr/base-documentaire/technologies-de-l-information-th9/attaques-et-mesures-de-protection-des-si-42313210/cyberespionnage-la-menace-apt-h5842/</link>
+<guid isPermaLink="true">https://www.techniques-ingenieur.fr/base-documentaire/technologies-de-l-information-th9/attaques-et-mesures-de-protection-des-si-42313210/cyberespionnage-la-menace-apt-h5842/</guid>
+<description><p>Comment éviter, détecter ou prévenir une attaque informatique APT ? Ces attaques, souvent difficiles à détecter, peuvent avoir des conséquences graves...</p></description>
+<pubDate>Wed, 22 Jan 2020 00:00:00 +0100</pubDate>
+</item>
+<item>
+<title>Cartes à puces - Technologie et cybersécurité</title>
+<link>https://www.techniques-ingenieur.fr/base-documentaire/electronique-photonique-th13/cartes-electroniques-technologies-et-conception-42287210/cartes-a-puces-e3440/</link>
+<guid isPermaLink="true">https://www.techniques-ingenieur.fr/base-documentaire/electronique-photonique-th13/cartes-electroniques-technologies-et-conception-42287210/cartes-a-puces-e3440/</guid>
+<description><p>La carte à puces est dorénavant à la base de la sécurité des systèmes informatiques, en tant que moyen de paiement, d’identification ou d’authentification sûre. Grâce aux progrès des semi-conducteurs et des techniques de programmation, des développements considérables ont été conduits.</p></description>
+<pubDate>Wed, 04 Dec 2019 00:00:00 +0100</pubDate>
+</item>
+<item>
+<title>Anonymisation des données, une nécessité à l’ère du RGPD</title>
+<link>https://www.techniques-ingenieur.fr/base-documentaire/technologies-de-l-information-th9/securite-des-si-organisation-dans-l-entreprise-et-legislation-42458210/anonymisation-des-donnees-une-necessite-a-l-ere-du-rgpd-h5537/</link>
+<guid isPermaLink="true">https://www.techniques-ingenieur.fr/base-documentaire/technologies-de-l-information-th9/securite-des-si-organisation-dans-l-entreprise-et-legislation-42458210/anonymisation-des-donnees-une-necessite-a-l-ere-du-rgpd-h5537/</guid>
+<description><p>Pour rester en conformité avec le RGPD, certaines données ne sont pas utilisables en l'état et doivent être anonymisées. Mais l'anomymisation est un processus complexe qu'il convient de maîtriser afin de s'assurer de la parfaite conformité avec la réglementation. </p></description>
+<pubDate>Fri, 08 Nov 2019 00:00:00 +0100</pubDate>
+</item>
+<item>
+<title>Protection des systèmes de contrôle-commande contre les cyberattaques</title>
+<link>https://www.techniques-ingenieur.fr/base-documentaire/automatique-robotique-th16/supervision-des-systemes-industriels-42396210/protection-des-systemes-de-controle-commande-contre-les-cyberattaques-be6001/</link>
+<guid isPermaLink="true">https://www.techniques-ingenieur.fr/base-documentaire/automatique-robotique-th16/supervision-des-systemes-industriels-42396210/protection-des-systemes-de-controle-commande-contre-les-cyberattaques-be6001/</guid>
+<description><p>Les systèmes de contrôle-commande sont des systèmes cyber-physiques qui combinent des couches de calcul, de communication et physique afin de réaliser un ensemble de tâches. Comment, dans le contexte de la transition énergétique, protéger ces systèmes contre les cyberattaques ?</p></description>
+<pubDate>Thu, 24 Oct 2019 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Construire son datacenter opensource haute disponibilité avec GPU partagé</title>
+<link>https://www.techniques-ingenieur.fr/base-documentaire/technologies-de-l-information-th9/attaques-et-mesures-de-protection-des-si-42313210/construire-son-datacenter-opensource-haute-disponibilite-avec-gpu-partage-te7730/</link>
+<guid isPermaLink="true">https://www.techniques-ingenieur.fr/base-documentaire/technologies-de-l-information-th9/attaques-et-mesures-de-protection-des-si-42313210/construire-son-datacenter-opensource-haute-disponibilite-avec-gpu-partage-te7730/</guid>
+<description><p>Retrouvez ici toute la méthodologie pour installer et configurer une machine virtuelle, puis un datacenter open source haute disponibilité.</p></description>
+<pubDate>Wed, 31 Jul 2019 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Cybersécurité des installations industrielles - SCADA et Industrial IoT</title>
+<link>https://www.techniques-ingenieur.fr/base-documentaire/automatique-robotique-th16/systemes-d-information-et-de-communication-42397210/cybersecurite-des-installations-industrielles-s8257/</link>
+<guid isPermaLink="true">https://www.techniques-ingenieur.fr/base-documentaire/automatique-robotique-th16/systemes-d-information-et-de-communication-42397210/cybersecurite-des-installations-industrielles-s8257/</guid>
+<description><p>L'informatique est omniprésente, et notamment permet le contrôle de tous les systèmes industriels. Comment se prémunir contre les cyber-risques et éviter les attaques, pouvant aller jusqu'à la destruction, de systèmes industriels ? </p></description>
+<pubDate>Mon, 19 Nov 2018 00:00:00 +0100</pubDate>
+</item>
+<item>
+<title>Protection des données personnelles dans le système d’information</title>
+<link>https://www.techniques-ingenieur.fr/base-documentaire/technologies-de-l-information-th9/securite-des-si-organisation-dans-l-entreprise-et-legislation-42458210/protection-des-donnees-personnelles-dans-le-systeme-d-information-h5455/</link>
+<guid isPermaLink="true">https://www.techniques-ingenieur.fr/base-documentaire/technologies-de-l-information-th9/securite-des-si-organisation-dans-l-entreprise-et-legislation-42458210/protection-des-donnees-personnelles-dans-le-systeme-d-information-h5455/</guid>
+<description><p>La réglementation est complexe et en évolution constante en ce qui concerne la protection des données personnelles. Vous trouverez une vision concrète et pragmatique de ce cadre réglementaire et des aspects connexes tels que le droit à l'oubli et l'anonymisation.</p></description>
+<pubDate>Wed, 12 Sep 2018 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Sécurité des systèmes embarqués</title>
+<link>https://www.techniques-ingenieur.fr/base-documentaire/technologies-de-l-information-th9/securite-des-si-services-et-applications-42315210/securite-des-systemes-embarques-h8280/</link>
+<guid isPermaLink="true">https://www.techniques-ingenieur.fr/base-documentaire/technologies-de-l-information-th9/securite-des-si-services-et-applications-42315210/securite-des-systemes-embarques-h8280/</guid>
+<description><p>Les systèmes embarqués sont omniprésents, dans notre vie privée comme professionnelle. Mais sont-ils correctement protégés contre les attaques et les menaces ?</p></description>
+<pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Normes ISO 2700x : vers la gouvernance de la sécurité des systèmes d’information</title>
+<link>https://www.techniques-ingenieur.fr/base-documentaire/environnement-securite-th5/systeme-de-management-du-risque-42626210/normes-iso-2700x-vers-la-gouvernance-de-la-securite-des-systemes-d-information-g9060/</link>
+<guid isPermaLink="true">https://www.techniques-ingenieur.fr/base-documentaire/environnement-securite-th5/systeme-de-management-du-risque-42626210/normes-iso-2700x-vers-la-gouvernance-de-la-securite-des-systemes-d-information-g9060/</guid>
+<description><p>La mise en place de la sécurité des systèmes d'information en est encore à ses débuts, pour preuve la série des normes ISO 2700 n'est pas encore finalisée. Planification du traitement des risques, génération d’indicateurs significatifs, formation du personnel, et notamment moyens de contrôle..., autant d’étapes nécessaires à son déploiement.</p></description>
+<pubDate>Tue, 03 Apr 2018 00:00:00 +0200</pubDate>
+</item>
+<item>
+<title>Certification électronique</title>
+<link>https://www.techniques-ingenieur.fr/base-documentaire/technologies-de-l-information-th9/cryptographie-authentification-protocoles-de-securite-vpn-42314210/certification-electronique-h5510/</link>
+<guid isPermaLink="true">https://www.techniques-ingenieur.fr/base-documentaire/technologies-de-l-information-th9/cryptographie-authentification-protocoles-de-securite-vpn-42314210/certification-electronique-h5510/</guid>
+<description>La dématérialisation des documents et l'augmentation des échanges électroniques imposent de sécuriser l'authentification des utilisateurs. Découvrez ici les différents moyens de certification et les infrastructures de gestion des clés d'authentification. </description>
+<pubDate>Wed, 15 Nov 2017 00:00:00 +0100</pubDate>
+</item>
+<item>
+<title>Virus informatiques et autres infections informatiques</title>
+<link>https://www.techniques-ingenieur.fr/base-documentaire/technologies-de-l-information-th9/attaques-et-mesures-de-protection-des-si-42313210/virus-informatiques-et-autres-infections-informatiques-h5440/</link>
+<guid isPermaLink="true">https://www.techniques-ingenieur.fr/base-documentaire/technologies-de-l-information-th9/attaques-et-mesures-de-protection-des-si-42313210/virus-informatiques-et-autres-infections-informatiques-h5440/</guid>
+<description><p>Comprenez comment fonctionnent les virus et autres vers qui attaquent régulièrement notre monde informatique. Et adaptez votre politique anti-virale pour optimiser votre protection.</p></description>
+<pubDate>Tue, 10 Oct 2017 00:00:00 +0200</pubDate>
+</item>
+</channel>
+</rss>
